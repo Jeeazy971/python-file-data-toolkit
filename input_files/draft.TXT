@@ -1,0 +1,2 @@
+Draft
+This uppercase extension should still be accepted

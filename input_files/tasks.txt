@@ -1,0 +1,4 @@
+Tasks
+Practice pathlib
+Review exceptions
+Generate report

@@ -1,0 +1,27 @@
+Text files report
+-----------------
+File: draft.TXT
+Path: input_files\draft.TXT
+Lines: 2
+Content:
+Draft
+This uppercase extension should still be accepted
+
+File: notes.txt
+Path: input_files\notes.txt
+Lines: 3
+Content:
+Python notes
+Pathlib is useful
+Files can be read
+
+File: tasks.txt
+Path: input_files\tasks.txt
+Lines: 4
+Content:
+Tasks
+Practice pathlib
+Review exceptions
+Generate report
+
+Total text files: 3

@@ -1,0 +1,3 @@
+Python notes
+Pathlib is useful
+Files can be read
